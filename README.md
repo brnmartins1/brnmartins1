@@ -20,16 +20,10 @@
   </p>
   
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=brnmartins1&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </p>
-
-  ---
-
-  <p align="center">
-    <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <a href="www.linkedin.com/in/bruno-martins-a25916210/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:SEU-EMAIL@GMAIL.COM">
+    <a href="mailto:brunomartinss906@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
