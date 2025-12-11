@@ -1,6 +1,6 @@
 <div align="center">
 
-  Stack
+  <h3>Stack</h3>
   
   <p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,docker,aws,git&theme=dark" />
@@ -8,12 +8,11 @@
 
   <br/>
 
-  
   <p align="center">
-    <a href="www.linkedin.com/in/bruno-martins-a25916210/" target="_blank">
+    <a href="https://www.linkedin.com/in/bruno-martins-a25916210/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:brunomartinss906@gmail.com">
+    &nbsp; <a href="mailto:brunomartinss906@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
