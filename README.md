@@ -8,16 +8,6 @@
 
   <br/>
 
-  Minhas Contribuições
-  
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=brnmartins1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnmartins1&layout=compact&theme=transparent&hide_border=true&langs_count=6&hide=html,css" />
-    </a>
-  </p>
   
   <p align="center">
     <a href="www.linkedin.com/in/bruno-martins-a25916210/" target="_blank">
