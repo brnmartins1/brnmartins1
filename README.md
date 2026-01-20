@@ -3,7 +3,7 @@
   <h3>🛠️ Stack</h3>
   
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,git,sql,docker,js,ts,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,ts,nodejs,git,docker&theme=dark" />
   </p>
 
   <br/>
