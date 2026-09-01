@@ -33,13 +33,13 @@ Python • Java • TypeScript • JavaScript
 FastAPI • Spring Boot • Node.js • REST APIs
 
 **Databases**  
-PostgreSQL • SQL Server • MySQL
+PostgreSQL • SQL Server • MySQL • MongoDB
 
 **Data**  
-Pandas • PySpark • ETL/ELT • Data Processing
+Pandas • PySpark • ETL/ELT • Data Processing •Databricks •Snowflake
 
 **Infrastructure & Tools**  
-Docker • Linux • Git • GitHub
+Docker • Linux • Git • GitHub Actions •CI/CD
 
 **Cloud**  
 AWS • Azure • GCP
