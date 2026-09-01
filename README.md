@@ -13,3 +13,37 @@
   </p>
 
 </div>
+
+# Bruno Martins
+
+Backend Developer working with Python, Java and Node.js.
+
+I have experience building APIs, system integrations, automation tools and internal backend services, mainly using PostgreSQL and Linux environments.
+
+My work involves backend development, process automation, data processing and integration between different systems.
+
+I'm currently expanding my work into Data Engineering, with a focus on ETL/ELT, data pipelines, PySpark and cloud environments.
+
+## Tech Stack
+
+**Languages**  
+Python • Java • TypeScript • JavaScript
+
+**Backend**  
+FastAPI • Spring Boot • Node.js • REST APIs
+
+**Databases**  
+PostgreSQL • SQL Server • MySQL
+
+**Data**  
+Pandas • PySpark • ETL/ELT • Data Processing
+
+**Infrastructure & Tools**  
+Docker • Linux • Git • GitHub
+
+**Cloud**  
+AWS • Azure • GCP
+
+## Main interests
+
+Backend Development • APIs • System Integration • Automation • Data Engineering
